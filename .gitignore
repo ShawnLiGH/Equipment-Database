@@ -1,0 +1,6 @@
+*.db
+__pycache__/
+.venv/
+.DS_Store
+submittal_package/
+*.csv
