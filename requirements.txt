@@ -1,3 +1,4 @@
-streamlit>=1.30
-sqlmodel>=0.0.16
-pandas>=2.0
+streamlit==1.41.1
+sqlmodel==0.0.22
+sqlalchemy==2.0.36
+pandas==2.2.3
